@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SF21-nwp-map/static/css/main.7b17b73e.chunk.css",
+    "main.js": "/SF21-nwp-map/static/js/main.7e92879f.chunk.js",
+    "main.js.map": "/SF21-nwp-map/static/js/main.7e92879f.chunk.js.map",
+    "runtime-main.js": "/SF21-nwp-map/static/js/runtime-main.2e98f4b2.js",
+    "runtime-main.js.map": "/SF21-nwp-map/static/js/runtime-main.2e98f4b2.js.map",
+    "static/js/2.ff36da4b.chunk.js": "/SF21-nwp-map/static/js/2.ff36da4b.chunk.js",
+    "static/js/2.ff36da4b.chunk.js.map": "/SF21-nwp-map/static/js/2.ff36da4b.chunk.js.map",
+    "static/js/3.fcd16f70.chunk.js": "/SF21-nwp-map/static/js/3.fcd16f70.chunk.js",
+    "static/js/3.fcd16f70.chunk.js.map": "/SF21-nwp-map/static/js/3.fcd16f70.chunk.js.map",
+    "index.html": "/SF21-nwp-map/index.html",
+    "static/css/main.7b17b73e.chunk.css.map": "/SF21-nwp-map/static/css/main.7b17b73e.chunk.css.map",
+    "static/js/2.ff36da4b.chunk.js.LICENSE.txt": "/SF21-nwp-map/static/js/2.ff36da4b.chunk.js.LICENSE.txt",
+    "static/media/india map.9823d80f.jpg": "/SF21-nwp-map/static/media/india map.9823d80f.jpg",
+    "static/media/pin-trans.604d6809.png": "/SF21-nwp-map/static/media/pin-trans.604d6809.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e98f4b2.js",
+    "static/js/2.ff36da4b.chunk.js",
+    "static/css/main.7b17b73e.chunk.css",
+    "static/js/main.7e92879f.chunk.js"
+  ]
+}
