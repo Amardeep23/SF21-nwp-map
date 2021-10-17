@@ -82,3 +82,21 @@
     opacity: 1;
     transform: translate(-50%, -10%);
   }
+ svg{
+    fill: red;
+    opacity: 0.755;
+    width: 40px;
+    height: 40px;
+    stroke: black;
+    stroke-width: 5px;
+}
+svg:hover{
+    /* transform: translate(-50%, -125%) scale(1.5); */
+    width: 55px;
+    height: 55px;
+    fill:rgb(44, 235, 5);
+    opacity: 1;
+    cursor: pointer;
+    stroke: black;
+    stroke-width: 5px;
+}
